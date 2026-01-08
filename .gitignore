@@ -1,0 +1,2 @@
+# Environment files which may contain sensitive info, like API keys
+.env
