@@ -1,7 +1,7 @@
 # Step 1
-Created the workflow.
+Created the workflow and named it as instructed.
 
-![](/aux/L10/B/init.png)
+![](/aux/L10/B/Init.png)
 
 # Step 2
 Created the Webhook call node and configured as specified.

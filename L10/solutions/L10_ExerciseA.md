@@ -1,7 +1,7 @@
 # Step 1
-Craeted the new workflow.
+Created the new workflow.
 
-![](/aux/L10/A/init.png)
+![](/aux/L10/A/Init.png)
 
 # Step 2
 Created the webhook node and configured it.
@@ -25,7 +25,7 @@ Created and configured Modify Fields (Set) and Repond to webhook nodes.
 > as it's a close match.
 
 > [!WARNING]
-> Set field mappings expressions has do be changed in order for them to work correctly.
+> Set field mappings expressions had to be slightly changed in order for them to work correctly.
 
 ![](/aux/L10/A/SetNode.png)
 ![](/aux/L10/A/RespondNode.png)
@@ -34,7 +34,7 @@ Created and configured Modify Fields (Set) and Repond to webhook nodes.
 Used CUrl to test the workflow.
 
 > [!IMPORTANT]
-> The CUrl commands has to be modified, because the instructions in the exercise make the workflow only accept search query parameters.
+> The CUrl commands had to be modified, because the instructions in the exercise make the workflow only accept search query parameters.
 
 ![](/aux/L10/A/Test.png)
 
